@@ -11,6 +11,16 @@ def main():
         print(i)
     
 
+<<<<<<< HEAD
+=======
+staticmethodfs
+sldfjnadga
+dfasdkfjmasdfAefajsdfaDF
+deffaskdfasdf
+gfhgjk
+hdgjjlg
+gjgkklhhklguiv
+>>>>>>> c7ece88a39da7095341736875a4851cd228cb54f
 
 
 def piglatin(word):
@@ -26,3 +36,4 @@ def piglatin(word):
     for i in list:
         string+=i
     return string
+    hgh
