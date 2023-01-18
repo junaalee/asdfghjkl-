@@ -1,17 +1,11 @@
-<<<<<<< HEAD
-nhjkl;.,mnbvftyuil;.,mnbvcxdrtyukl,mnbvcxdftyuiol;.,mnb vcdfrtyuiklkmnbvcxsdfrtyuiol;.,mn bvcdfrtyuik
+def main():
+    list = []
+    x = "hi"
+    while x != "":
+        x = input()
+        list.append(x)
+    list.sort()
+    for i in range(0,len(list)):
+        list[i] = piglatin(list[i])
 
-
-
-
-
-
-
-
-
-
-
-
-=======
-print("adsfasfsad")
->>>>>>> 1150cc871398cded985e188a0444a974fe41d820
+def piglatin():
