@@ -9,6 +9,8 @@ def main():
     list.sort()
     for i in list:
         print(i)
+    
+    print("hello")
 
 staticmethodfs
 
