@@ -1,4 +1,9 @@
-# asdfghjkl-
-
-jhjgfhdgfshgfghj;
-HI HELLOW HI HIII
+hello Juna
+JUNA JUNAA JUNAAA JUNAAAA JUNAAAAA JUNAAAAAA
+HI
+HELLOW
+HII
+HI
+HELLO
+HI
+BYE ㅜㅜ
