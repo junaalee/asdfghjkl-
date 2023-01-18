@@ -16,6 +16,9 @@ staticmethodfs
 sldfjnadga
 dfasdkfjmasdfAefajsdfaDF
 deffaskdfasdf
+gfhgjk
+hdgjjlg
+gjgkklhhklguiv
 
 
 def piglatin(word):
@@ -31,3 +34,4 @@ def piglatin(word):
     for i in list:
         string+=i
     return string
+    hgh
