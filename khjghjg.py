@@ -13,6 +13,10 @@ def main():
     print("hello")
 
 staticmethodfs
+sldfjnadga
+dfasdkfjmasdfAefajsdfaDF
+deffaskdfasdf
+
 
 def piglatin(word):
     list=[]
