@@ -10,6 +10,8 @@ def main():
     for i in list:
         print(i)
 
+staticmethodfs
+
 def piglatin(word):
     list=[]
     for i in word:
