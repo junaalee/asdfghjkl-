@@ -10,12 +10,7 @@ def main():
     for i in list:
         print(i)
     
-    print("hello")
 
-staticmethodfs
-sldfjnadga
-dfasdkfjmasdfAefajsdfaDF
-deffaskdfasdf
 
 
 def piglatin(word):
